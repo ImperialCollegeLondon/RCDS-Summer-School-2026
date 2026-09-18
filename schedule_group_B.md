@@ -6,7 +6,7 @@
 | 1130-1245 | [Variable Types](course_content/2_data_types.ipynb) and [Functions](course_content/3_functions.ipynb) | Jay + Tom |
 | 1400-1515 | [AI-Assisted Programming](course_content/ai_assisted_programming.ipynb) | Chris + John |
 | 1530-1615 | [Control Flow with Conditionals](course_content/4_conditionals.ipynb) | John + Katerina |
-| 1615-1635 | [Task: Test tubes](course_content/task_test_tubes.ipynb) | John + Katerina |
+| 1615-1635 | [Task: Test Tubes](course_content/task_test_tubes.ipynb) | John + Katerina |
 | 1635-1645 | Quiz 1 | John + Katerina |
 
 # Tuesday
