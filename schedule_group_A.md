@@ -27,7 +27,7 @@
 | Time | Content | Tutor + Helper |
 | --- | --- | --- |
 | 1000-1115 | Solutions and [Introduction to Packages, Import Statements, and Project Organisation](course_content/9_packages_imports_projects/packages_imports_projects.ipynb) | Katerina + Tom, Liam |
-| 1130-1235 | [Extended Task: Scaffolded Peak Finding with Extension Tasks and Plotting](course_content/taks_peak_finding.ipynb) | Katerina + Tom, Liam |
+| 1130-1235 | [Extended Task: Scaffolded Peak Finding with Extension Tasks and Plotting](course_content/taks_peak_finding.ipynb) | Katerina + Liam |
 | 1235-1245 | Quiz 4 | Katerina + Tom, Liam |
 | 1400-1515 | [AI-Assisted Programming](course_content/ai_assisted_programming.ipynb) | Chris + John |
 | 1530-1645 | Debrief and Preliminary Findings | All |
