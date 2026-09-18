@@ -1,4 +1,4 @@
-# development_RCDS_summer_school_2026
+# RCDS Summer School 2026
 
 ## Preparation
 
@@ -11,3 +11,7 @@ There are two parallel tracks in this experiment. The schedules for each group c
 
 * [Group A Schedule](schedule_group_A.md)
 * [Group B Schedule](schedule_group_B.md)
+
+## Task Solutions
+
+Solutions to tasks will be made available shortly after tasks are completed. Please find them at [this link](https://github.com/ImperialCollegeLondon/RCDS-Summer-School-2026-solutions).
