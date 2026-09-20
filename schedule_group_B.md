@@ -26,7 +26,7 @@
 
 | Time | Content | Tutor + Helper |
 | --- | --- | --- |
-| 1000-1115 | Solution and [Introduction to Packages, Import Statements, and Project Organisation](course_content/9_packages_imports_projects/packages_imports_projects.ipynb) | John + Liam |
+| 1000-1115 | Solution and [Introduction to Packages, Import Statements, and Project Organisation](course_content/9_packages_imports_projects/packages_imports_projects.ipynb) | Katerina + Tom |
 | 1130-1235 | [Extended Task: Scaffolded Peak Finding with Extension Tasks and Plotting](course_content/task_peak_finding.ipynb) | John + Liam |
 | 1235-1245 | Quiz 4 | John + Liam |
 | 1400-1515 | [Introduction to Research Computing, the Python Ecosystem, and Software Engineering]() | Tom + Katerina |
